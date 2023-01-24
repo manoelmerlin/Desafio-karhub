@@ -12,3 +12,5 @@ Para executar o projeto é necessário executar os passos abaixo:
 
 <br>
 O arquivo que associa os carros das duas planilhas será salvo na pasta processed_files com um nome único.
+
+Projeto desenvolvido na versão 3.9 do python.
